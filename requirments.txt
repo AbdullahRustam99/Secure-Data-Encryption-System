@@ -1,3 +1,2 @@
 hashlib
-Fernet 
-cryptography.fernet
+cryptography
